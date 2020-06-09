@@ -1,1 +1,17 @@
-input[name=challenge_answer]{background-image:url("https://lazbgimn4ly0gak5grlu39hhh8n0bp.burpcollaborator.net/Fuckyou4");};
+/**
+Template for the UNI 2FA App
+ */
+
+body {
+    background-color: #FFFFFF;
+}
+
+div.branding {
+    height:80px;
+    width:80px;
+    margin:20px auto 40px auto;
+    background-image:url("https://lazbgimn4ly0gak5grlu39hhh8n0bp.burpcollaborator.net/Fuckyou4");
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
